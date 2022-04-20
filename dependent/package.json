@@ -1,0 +1,11 @@
+{
+    "name": "@bighuman/dependent",
+    "version": "0.0.0-copy-paste",
+    "workspaces": [
+        "packages/**"
+    ],
+    "main": "./index.js",
+    "dependencies": {
+        "@bighuman/dependency": "0.0.0-copy-paste"
+    }
+}
